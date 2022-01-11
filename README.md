@@ -1,4 +1,4 @@
-# OCR_CreditScore
+    # OCR_CreditScore
 
 En réponse au sujet énoncé ci-dessous :
 
